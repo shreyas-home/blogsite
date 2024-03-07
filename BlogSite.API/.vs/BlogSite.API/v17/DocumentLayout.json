@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|d:\\1\\angular\\blogsite\\api\\blogsite.api\\blogsite.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|solutionrelative:blogsite.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|d:\\1\\angular\\blogsite\\api\\blogsite.api\\blogsite.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|solutionrelative:blogsite.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|d:\\1\\angular\\blogsite\\api\\blogsite.api\\blogsite.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|solutionrelative:blogsite.api\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|d:\\1\\angular\\blogsite\\api\\blogsite.api\\blogsite.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|solutionrelative:blogsite.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|d:\\1\\angular\\blogsite\\api\\blogsite.api\\blogsite.api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CFA7EF-71A9-42FE-B47D-8E319C79DEBD}|BlogSite.API\\BlogSite.API.csproj|solutionrelative:blogsite.api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogSite.API\\appsettings.json",
+              "ToolTip": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\appsettings.json",
+              "RelativeToolTip": "BlogSite.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T10:07:20.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthDBContext.cs",
+              "DocumentMoniker": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Data\\AuthDBContext.cs",
+              "RelativeDocumentMoniker": "BlogSite.API\\Data\\AuthDBContext.cs",
+              "ToolTip": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Data\\AuthDBContext.cs",
+              "RelativeToolTip": "BlogSite.API\\Data\\AuthDBContext.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:01:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogSite.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlogSite.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:57:02.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BlogSite.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BlogSite.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwH4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:19:48.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogpostsController.cs",
+              "DocumentMoniker": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Controllers\\BlogpostsController.cs",
+              "RelativeDocumentMoniker": "BlogSite.API\\Controllers\\BlogpostsController.cs",
+              "ToolTip": "D:\\1\\Angular\\BlogSite\\API\\BlogSite.API\\BlogSite.API\\Controllers\\BlogpostsController.cs",
+              "RelativeToolTip": "BlogSite.API\\Controllers\\BlogpostsController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAPQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:16:35.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
